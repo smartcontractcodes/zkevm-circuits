@@ -1,6 +1,6 @@
 # Testool
 
-The `testool` is a binary cli that focus on provide tools for testing.
+The `testool` is a binary CLI that focuses on providing tools for testing.
 
 To use it, just compile with `cargo build --release` and run `../target/release/testool`.
 
